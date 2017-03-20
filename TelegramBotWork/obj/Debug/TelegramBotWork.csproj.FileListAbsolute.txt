@@ -1,0 +1,30 @@
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.exe.config
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.exe
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.pdb
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\Newtonsoft.Json.dll
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\System.Net.Http.Formatting.dll
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\Telegram.Bot.dll
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\Newtonsoft.Json.xml
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\System.Net.Http.Formatting.xml
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\bin\Debug\Telegram.Bot.xml
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.csprojResolveAssemblyReference.cache
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.Form1.resources
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.Properties.Resources.resources
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.csproj.GenerateResource.Cache
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.exe
+d:\users\artem\Desktop\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.pdb
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.exe.config
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.exe
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.pdb
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.exe
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\TelegramBotWork.pdb
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\System.Net.Http.Formatting.dll
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\Telegram.Bot.dll
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\System.Net.Http.Formatting.xml
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\bin\Debug\Telegram.Bot.xml
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.csprojResolveAssemblyReference.cache
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.Properties.Resources.resources
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.csproj.GenerateResource.Cache
+D:\Users\Artem\Desktop\TelegramBot with WebServer\TelegramBotWork\TelegramBotWork\obj\Debug\TelegramBotWork.frmMain.resources
