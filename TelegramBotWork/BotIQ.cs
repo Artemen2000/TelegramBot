@@ -58,7 +58,7 @@ namespace TelegramBotWork
                     break;
                 }
             }
-            if (!exists)
+            if (!exists && data.mode == 0 || data.mode == 3)
             {
                 Array.Resize(ref data.users, data.users.Length + 1);
                 data.users[data.users.Length - 1] = talker;
